@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Plyfaa Suwanamalik-Murphy ~ Cognitive Psychology & Neuroscience"
+title                    : "Monchaya Murphy ~ Massage Therapist"
 title_separator          : "-"
-name                     : &name "Plyfaa Suwanamalik-Murphy"
+name                     : &name "Monchaya Murphy"
 description              : &description "personal description"
-url                      : https://plyfaa.github.io
+url                      : https://monchayamurphy.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,13 +26,13 @@ baseurl: ""
 author:
   # Biographic information
   avatar           : "unnamed2.jpg"
-  name             : "Plyfaa Suwanamalik-Murphy"
+  name             : "Monchaya Murphy"
   pronouns         : # she/her
-  bio              : "Postbaccalaureate Research Fellow in Dr. Peter Bandettini's Section on Functional Imaging Methods (SFIM)"
-  location         : "Maryland, USA"
-  employer         : "NIH/NIMH"
+  bio              : "Insert bio here... specialized in what?"
+  location         : "San Francisco, CA"
+  employer         : "Insert text here..."
   uri              : # URL
-  email            : "plysuwana@gmail.com"  
+  email            : "monchayamurphy@gmail.com"  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,12 +48,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "plyfaa"
+  github           : "monchayamurphy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "suwanamurphy.bsky.social"
+  bluesky          : # "suwanamurphy.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : plyfaa-murphy
+  linkedin         : # plyfaa-murphy
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
